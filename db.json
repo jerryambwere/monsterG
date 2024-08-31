@@ -1,9 +1,304 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "monsters": [
+    {
+      "id": "1",
+      "age": 4005.302453418598,
+      "name": "Chronos",
+      "description": "Effulgence eldritch shunned foetid. Ululate gibbering tenebrous foetid iridescence daemoniac. Stench nameless gambrel. Amorphous furtive iridescence noisome. Foetid mortal nameless.",
+      "category": "Eldritch",
+      "origin": "Unknown",
+      "powerLevel": "High",
+      "habitat": "Cavernous Depths"
+    },
+    {
+      "id": "2",
+      "age": 1874.4913565609456,
+      "name": "Tartarus",
+      "description": "Cyclopean swarthy amorphous singular accursed furtive non-euclidean stygian. Swarthy gibbering charnel eldritch daemoniac gibbous. Cyclopean lurk hideous tentacles squamous immemorial tenebrous mortal. Madness tentacles furtive mortal foetid decadent. Foetid immemorial comprehension.",
+      "category": "Horror",
+      "origin": "Ancient Greece",
+      "powerLevel": "Extreme",
+      "habitat": "Lost Realms"
+    },
+    {
+      "id": "3",
+      "age": 4094.8375978925988,
+      "name": "Hemera",
+      "description": "Dank immemorial abnormal gambrel. Cat lurk unutterable. Abnormal tenebrous ululate. Nameless swarthy manuscript eldritch indescribable accursed antediluvian decadent.",
+      "category": "Eldritch",
+      "origin": "Mythical",
+      "powerLevel": "Moderate",
+      "habitat": "Dark Forest"
+    },
+    {
+      "id": "4",
+      "age": 2364.163894640274,
+      "name": "Tartarus",
+      "description": "Fungus blasphemous immemorial indescribable singular cat foetid. Cyclopean loathsome swarthy tenebrous madness nameless abnormal fungus. Daemoniac fungus fainted.",
+      "category": "Fungal",
+      "origin": "Ancient Greece",
+      "powerLevel": "High",
+      "habitat": "Ancient Ruins"
+    },
+    {
+      "id": "5",
+      "age": 4838.903020812994,
+      "name": "Pontus",
+      "description": "Mortal madness foetid. Foetid hideous antediluvian non-euclidean comprehension nameless lurk. Squamous shunned accursed amorphous.",
+      "category": "Horror",
+      "origin": "Mythical",
+      "powerLevel": "High",
+      "habitat": "Swamps"
+    },
+    {
+      "id": "6",
+      "age": 309.71166432846627,
+      "name": "Nemesis",
+      "description": "Mortal accursed unnamable indescribable antiquarian dank antediluvian. Cat dank unmentionable foetid antediluvian furtive. Nameless loathsome stygian tentacles abnormal antediluvian. Antiquarian iridescence daemoniac immemorial fungus furtive effulgence. Noisome ululate fungus hideous.",
+      "category": "Eldritch",
+      "origin": "Ancient Greece",
+      "powerLevel": "Moderate",
+      "habitat": "Ancient Forests"
+    },
+    {
+      "id": "7",
+      "age": 61.3504188391221,
+      "name": "Phanes",
+      "description": "Gibbering accursed comprehension manuscript furtive madness cyclopean. Cyclopean ululate effulgence singular dank noisome unnamable. Furtive mortal manuscript indescribable foetid singular charnel stygian.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "Low",
+      "habitat": "Ancient Ruins"
+    },
+    {
+      "id": "8",
+      "age": 4885.771945693918,
+      "name": "Nesoi",
+      "description": "Unnamable non-euclidean eldritch gibbering iridescence amorphous. Tenebrous antiquarian amorphous abnormal unnamable manuscript. Abnormal amorphous fungus loathsome stench. Effulgence tenebrous amorphous unmentionable.",
+      "category": "Eldritch",
+      "origin": "Mythical",
+      "powerLevel": "Extreme",
+      "habitat": "Lost Islands"
+    },
+    {
+      "id": "9",
+      "age": 4892.092518802611,
+      "name": "Gaia",
+      "description": "Effulgence antediluvian tentacles abnormal. Fungus cyclopean unutterable unmentionable furtive nameless tenebrous immemorial. Furtive fungus fainted. Fainted gibbering swarthy amorphous madness antediluvian cyclopean accursed. Cyclopean indescribable accursed gambrel tentacles noisome.",
+      "category": "Eldritch",
+      "origin": "Ancient Greece",
+      "powerLevel": "High",
+      "habitat": "Cavernous Depths"
+    },
+    {
+      "id": "10",
+      "age": 3856.8591126857073,
+      "name": "Hypnos",
+      "description": "Mortal unutterable daemoniac tenebrous dank iridescence madness. Manuscript stench spectral singular blasphemous decadent. Blasphemous immemorial ululate eldritch iridescence.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "Moderate",
+      "habitat": "Dark Forest"
+    },
+    {
+      "id": "11",
+      "age": 387.52969067096143,
+      "name": "Nyx",
+      "description": "Foetid iridescence decadent antediluvian dank singular gibbering effulgence. Noisome immemorial fungus comprehension gibbous indescribable effulgence. Indescribable stench lurk gibbering manuscript spectral comprehension. Unutterable blasphemous comprehension manuscript cat.",
+      "category": "Eldritch",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Cavernous Depths"
+    },
+    {
+      "id": "12",
+      "age": 4059.5196233932415,
+      "name": "Uranus",
+      "description": "Effulgence accursed decadent. Antiquarian nameless accursed. Daemoniac blasphemous non-euclidean cat. Iridescence eldritch hideous non-euclidean.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "Extreme",
+      "habitat": "Ancient Ruins"
+    },
+    {
+      "id": "13",
+      "age": 4929.0138208295875,
+      "name": "Thanatos",
+      "description": "Gambrel decadent ululate charnel indescribable cyclopean. Non-euclidean unutterable effulgence stygian madness antediluvian loathsome unmentionable. Madness antediluvian blasphemous fungus lurk gibbering unmentionable. Unutterable antiquarian non-euclidean accursed singular cat.",
+      "category": "Eldritch",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Ancient Forests"
+    },
+    {
+      "id": "14",
+      "age": 3091.241149177922,
+      "name": "Ourea",
+      "description": "Immemorial daemoniac gibbering gibbous noisome fainted swarthy unmentionable. Accursed cyclopean lurk manuscript daemoniac swarthy. Eldritch amorphous indescribable iridescence antiquarian fungus. Lurk tenebrous iridescence cat. Shunned furtive decadent.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "Moderate",
+      "habitat": "Lost Realms"
+    },
+    {
+      "id": "15",
+      "age": 950.7511237463813,
+      "name": "Aion",
+      "description": "Manuscript abnormal unmentionable accursed spectral blasphemous lurk fainted. Abnormal fainted stench cyclopean. Tentacles fainted unmentionable unnamable. Charnel spectral singular fungus. Unutterable hideous decadent abnormal madness.",
+      "category": "Eldritch",
+      "origin": "Ancient Greece",
+      "powerLevel": "High",
+      "habitat": "Dark Forest"
+    },
+    {
+      "id": "16",
+      "age": 4427.2687813111,
+      "name": "Nesoi",
+      "description": "Unutterable non-euclidean effulgence amorphous. Tenebrous archaic amorphous abnormal manuscript. Amorphous unnamable stench gibbering. Effulgence indescribable abomination.",
+      "category": "Eldritch",
+      "origin": "Ancient Greece",
+      "powerLevel": "Extreme",
+      "habitat": "Forgotten Temples"
+    },
+    {
+      "id": "17",
+      "age": 3247.082946401217,
+      "name": "Typhon",
+      "description": "Blasphemous indescribable nameless unmentionable foul. Unnamable nameless amorphous ancient monstrous cat. Foul anomalous accursed cyclopean.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Lost Realms"
+    },
+    {
+      "id": "18",
+      "age": 1349.763651532688,
+      "name": "Erebus",
+      "description": "Cyclopean amorphous gibbous accursed iridescence anomalous stench. Anomalous hideous gibbering non-euclidean charnel. Immortal loathsome spectral indistinguishable. Accursed stench nameless gibbous.",
+      "category": "Eldritch",
+      "origin": "Greek Mythology",
+      "powerLevel": "Moderate",
+      "habitat": "Ancient Ruins"
+    },
+    {
+      "id": "19",
+      "age": 2783.347925436549,
+      "name": "Tartarus",
+      "description": "Gibbering swarthy eldritch accursed amorphous non-euclidean. Faintly chthonic iridescence non-euclidean accursed effulgence nameless. Eldritch accursed immortal.",
+      "category": "Cosmic Horror",
+      "origin": "Ancient Greece",
+      "powerLevel": "High",
+      "habitat": "Forgotten Realms"
+    },
+    {
+      "id": "20",
+      "age": 4170.20687215982,
+      "name": "Anubis",
+      "description": "Cyclopean spectral effulgence abnormal daemoniac gibbering nameless. Nameless gibbering abominable eldritch blasphemous. Blasphemous monstrous grotesque.",
+      "category": "Mythical",
+      "origin": "Egyptian Mythology",
+      "powerLevel": "High",
+      "habitat": "Ancient Temples"
+    },
+    {
+      "id": "21",
+      "age": 4201.861683129679,
+      "name": "Nereus",
+      "description": "Blasphemous effulgence cyclopean immortal. Immortal nameless ancient hideous anomalous. Hideous stygian eldritch non-euclidean.",
+      "category": "Eldritch",
+      "origin": "Ancient Greece",
+      "powerLevel": "Moderate",
+      "habitat": "Deep Oceans"
+    },
+    {
+      "id": "22",
+      "age": 1515.3834372326418,
+      "name": "Iapetus",
+      "description": "Unnamable blasphemous effulgence stygian foul amorphous. Effulgence amorphous accursed mortal spectral. Mortal accursed indescribable.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Ancient Ruins"
+    },
+    {
+      "id": "23",
+      "age": 1389.1173466326118,
+      "name": "Echidna",
+      "description": "Abnormal indescribable monstrous ancient stygian nameless foul. Cyclopean accursed gibbering foul spectral. Abnormal effulgence non-euclidean.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Cavernous Depths"
+    },
+    {
+      "id": "24",
+      "age": 3322.389462218828,
+      "name": "Nyx",
+      "description": "Unmentionable indescribable blasphemous amorphous accursed unutterable. Unutterable gibbering ancient blasphemous. Amorphous effulgence immortal.",
+      "category": "Eldritch",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Ancient Ruins"
+    },
+    {
+      "id": "25",
+      "age": 4185.563580752256,
+      "name": "Kronos",
+      "description": "Amorphous accursed gibbering ancient anomalous non-euclidean. Non-euclidean accursed blasphemous nameless. Abnormal monstrous iridescence.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Lost Realms"
+    },
+    {
+      "id": "26",
+      "age": 1817.570453731431,
+      "name": "Hades",
+      "description": "Cyclopean accursed effulgence gibbering monstrous. Foul blasphemous indescribable nameless. Nameless anomalous ancient.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Underworld"
+    },
+    {
+      "id": "27",
+      "age": 2935.610438399158,
+      "name": "Poseidon",
+      "description": "Ancient unmentionable immortal daemoniac effulgence stygian. Stygian nameless foul indescribable. Indescribable effulgence monstrous.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Deep Oceans"
+    },
+    {
+      "id": "28",
+      "age": 1193.297529759893,
+      "name": "Apollo",
+      "description": "Effulgence nameless cyclopean monstrous ancient. Nameless daemoniac indescribable. Ancient anomalous stygian.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "Moderate",
+      "habitat": "Ancient Ruins"
+    },
+    {
+      "id": "29",
+      "age": 4674.803589007191,
+      "name": "Helios",
+      "description": "Cyclopean accursed effulgence monstrous. Accursed effulgence indescribable nameless. Monstrous ancient unmentionable.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Ancient Ruins"
+    },
+    {
+      "id": "30",
+      "age": 3781.077689493794,
+      "name": "Persephone",
+      "description": "Blasphemous ancient foul indescribable immortal. Foul gibbering ancient nameless. Ancient non-euclidean monstrous.",
+      "category": "Mythical",
+      "origin": "Greek Mythology",
+      "powerLevel": "High",
+      "habitat": "Underworld"
+    }
+  ]
 }
